@@ -1,4 +1,4 @@
-using EmployeeWebService.API.Models;
+using EmployeeWebService.API.Domain.Models;
 using FluentAssertions;
 using Xunit;
 

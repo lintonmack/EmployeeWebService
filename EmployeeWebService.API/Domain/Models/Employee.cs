@@ -1,4 +1,4 @@
-namespace EmployeeWebService.API.Models
+namespace EmployeeWebService.API.Domain.Models
 {
     public class Employee : Person
     {
